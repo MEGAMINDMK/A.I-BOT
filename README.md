@@ -3,7 +3,7 @@
 </p>
 
 # A.I-BOT
-A.I BOT. A bot made on vbs
--> Move A.I PRO.vbs to C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+A.I BOT. A bot made on vbs<br>
+-> Move A.I PRO.vbs to C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup<br>
 -> Now restart your system
 
